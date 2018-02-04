@@ -1,1 +1,5 @@
 remote_theme: jekyll-theme-prologue
+url: ramdevvcu.github.io
+base_url: ramdevvcu.github.io
+avatar: ramdev.svg
+collections: [sections]
