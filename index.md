@@ -1,7 +1,7 @@
 ---
 layout: home
 title: RamDev Home page
-icon: fa-check
+icon: fa-code
 order: 1
 ---
 Test

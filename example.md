@@ -1,6 +1,6 @@
 ---
-layout: home
-title: RamDev Home page
+layout: blog
+title: Example blog
 icon: fa-check
 order: 2
 ---
