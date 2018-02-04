@@ -1,7 +1,7 @@
 ---
 layout: home
-title: RamDev Home page
-icon: fa-code
+title: Home
+icon: fa-home
 order: 1
 ---
-Test
+Welcome to RamDev, A CS Club at VCU!
