@@ -1,6 +1,6 @@
 ---
 layout: blog
 title: Recorded Meetings
-icon: fa-video
+icon: fa-play
 order: 2
 ---
