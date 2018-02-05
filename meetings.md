@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Recorded Meetings
+title: Talks
 icon: fa-play
 order: 2
 ---
