@@ -3,7 +3,7 @@ subtitle: Software Engineering at VCU
 description: This is the webiste for RamDev, a software engineering CS club at VCU.
 author: Darren Chan
 email: ramdev@vcu.edu
-avatar: ramdev.svg
+avatar: assets/images/logo.svg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
