@@ -27,3 +27,4 @@ remote_theme: vcuramdev/jekyll-theme-prologue
 collections:
 - sections
 - talks
+- hackathons
