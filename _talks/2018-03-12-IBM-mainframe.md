@@ -3,6 +3,7 @@ title: Master The Mainframe
 author: IBM
 layout: post
 icon: fa-server
+hide: false
 ---
 We will be hosting a **[Master the Mainframe](https://masterthemainframe.com/) Meetup**, led by representatives from **IBM**.
 * You can see the ad below for why mainframes are cool.

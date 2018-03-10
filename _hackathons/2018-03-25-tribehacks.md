@@ -3,6 +3,7 @@ title: Tribehacks
 author: 25 March 2018
 layout: post
 icon: fa-connectdevelop
+hide: false
 ---
 
 **[Tribehacks](http://www.tribehacks.com/) is March 23rd - 25th** at William and Mary.
