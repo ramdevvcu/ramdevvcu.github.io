@@ -2,7 +2,7 @@
 title: Cybersecurity
 author: Dominion Energy
 layout: post
-icon: fa-bug
+icon: fa-shield-alt
 ---
 This week, we are hosting a **speaker from [Dominion Energy](https://careers.dominionenergy.com/)**.
 They will be talking about **cyber-security**:
