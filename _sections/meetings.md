@@ -10,7 +10,4 @@ order: 2
     }
 </style>
 
-RamDev meets most weeks for talks at  
-**Engineering West Hall, Room 104**  
-**Mondays, 5:00 PM - 6:00 PM**    
-**01/29/18 - 05/30/18**
+RamDev meeting times are tbd. We'll post here and at #ramdev on vcucs.slack.com when details are finalized.
