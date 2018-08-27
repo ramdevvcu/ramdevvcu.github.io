@@ -10,4 +10,5 @@ order: 2
     }
 </style>
 
-RamDev meeting times are tbd. We'll post here and at #ramdev on vcucs.slack.com when details are finalized.
+RamDev meeting times are tbd.
+We'll post here and at #ramdev on vcucs.slack.com when details are finalized.
