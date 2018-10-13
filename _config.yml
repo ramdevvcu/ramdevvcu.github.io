@@ -8,8 +8,8 @@ avatar: assets/images/logo.svg
 future: true # Publish future documents
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "vcuramdev.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/vcuramdev.github.io/" # the subpath of your site, e.g. /blog
+url: "https://vcuramdev.github.io" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url: https://www.facebook.com/RamDevVCU/
